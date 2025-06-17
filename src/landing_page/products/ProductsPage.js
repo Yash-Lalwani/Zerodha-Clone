@@ -4,8 +4,6 @@ import LeftSection from "./LeftSection";
 import RightSection from "./RigthSection";
 import Universe from "./Universe";
 
-import Footer from "../Footer";
-import Navbar from "../Navbar";
 import OpenAccount from "../OpenAccount";
 
 function ProductsPage() {
@@ -15,8 +13,6 @@ function ProductsPage() {
       <LeftSection />
       <RightSection />
       <Universe />
-      <Footer />
-      <Navbar />
       <OpenAccount />
     </>
   );
