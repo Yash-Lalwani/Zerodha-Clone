@@ -16,7 +16,7 @@ function Hero() {
           bonds, and more.
         </p>
         <button
-          className="p-2 btn btn-primary fs-5 mb-5"
+          className="p-2 btn btn-primary fs-5 mb-5 mt-4"
           style={{ width: "20%", margin: "0 auto" }}
         >
           Sign up for free
