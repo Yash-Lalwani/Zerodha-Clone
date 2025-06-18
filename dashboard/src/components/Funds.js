@@ -16,7 +16,7 @@ const Funds = () => {
             <p>Equity</p>
           </span>
 
-          <div className="table">
+          <div className="table ">
             <div className="data">
               <p>Available margin</p>
               <p className="imp colored">4,043.10</p>
